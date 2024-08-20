@@ -14,17 +14,29 @@
 
 ###
 
-<p align="left">Olá, mundo!!<br>Meu nome é Keno mais conhecido como Koala entre outras pessoas sou um apaixonante de TI.</p>
+<h1 align="center">Olá, mundo!!!</h1>
+
+###
+
+<p align="left">Meu nome é Keno mais conhecido como Koala entre outras pessoas, sou um apaixonante de TI estudo atualmente Tecnologia da Informação no Senac - Americana, estou sempre em busca de novos conhecimentos e aprendizagem. Tenho uma paixão enorme por Tecnologia, Hakcing, Jogos, Programação, Banco de dados e entre muito mais.<br>Caso queira saber mais entre no meu Portfolio.</p>
+
+###
+
+<h2 align="center">Status!!!</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KoalaKeno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=pt-br&hide_border=false&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KoalaKeno&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=KoalaKeno&locale=pt-br&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=KoalaKeno&locale=pt-br&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=KoalaKeno&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KoalaKeno&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h2 align="center">Ferramentas de mais uso:</h2>
 
 ###
 
@@ -35,11 +47,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
@@ -54,19 +66,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KoalaKeno/count.svg?"  />
-</div>
-
-###
-
 <div align="right">
-  <a href="https://www.linkedin.com/in/keno-william-0a4739270/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/keno._stockler/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KoalaKeno.KoalaKeno&left_color=gray&right_color=lightgray&left_text=Profile%20Views"  />
 </div>
 
 ###
