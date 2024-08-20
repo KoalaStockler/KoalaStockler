@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Meu nome é <b>Keno</b> mais conhecido como <b><i>Koala</i></b> ou <b><i>Stockler</i></b> entre outras pessoas, sou um apaixonante de TI estudo atualmente Tecnologia da Informação no <a href="https://www.sp.senac.br/senac-americana">Senac - Americana</a>, estou sempre em busca de novos conhecimentos e aprendizagem. Tenho uma paixão enorme por Tecnologia, Hakcing, Jogos, Programação, Banco de dados, Linux, Hardwares, Softwares e entre muito mais que estejam envolvidos com tecnologia.<br>Caso queira saber mais entre no meu <a href="http://127.0.0.1:5500/Portf%C3%B3lio/index.html">Portfolio</a>.</p>
+<p align="left">Meu nome é <b>Keno</b> mais conhecido como <b><i>Koala</i></b> ou <b><i>Stockler</i></b> entre outras pessoas, sou um apaixonante de TI estudo atualmente Tecnologia da Informação no <a href="https://www.sp.senac.br/senac-americana">Senac - Americana</a>, estou sempre em busca de novos conhecimentos e aprendizagem. Tenho uma paixão enorme por Tecnologia, Hakcing, Jogos, Programação, Banco de dados, Linux, Hardwares, Softwares e entre muito mais que estejam envolvidos com tecnologia.<br>Caso queira saber mais entre no meu <a href="http://127.0.0.1:5500/Portf%C3%B3lio/index.html">Portfolio</a> espero que goste.</p>
 
 ###
 
