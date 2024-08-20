@@ -1,3 +1,4 @@
+
 <h1 align="center">👑 I Work In Silence 👑</h1>
 
 ###
@@ -24,7 +25,7 @@
 
 <details>
   <summary>👨‍💻Um pouco sobre mim👨‍💻</summary>
-  - Tenho 18 anos, meu nome é Keno William, e estou sempre em busca de conhecimento.<br>
+  - Tenho 18 anos, meu nome é Keno William, sou do Brasil e estou sempre em busca de conhecimento.<br>
   - Sempre fui apaixonado por tecnologia e quero isso para a minha vida.
 </details>
 
@@ -85,7 +86,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KoalaKeno/KoalaKeno/output/snake.svg" alt="Snake animation" />
+<picture> 
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KoalaKeno/KoalaKeno/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KoalaKeno/KoalaKeno/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KoalaKeno/KoalaKeno/output/github-contribution-grid-snake.svg"> </picture>
 
 ###
 
