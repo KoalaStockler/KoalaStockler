@@ -86,14 +86,9 @@
 
 ###
 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KoalaKeno/KoalaKeno/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KoalaKeno/KoalaKeno/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KoalaKeno/KoalaKeno/output/github-contribution-grid-snake.svg"> </picture>
-
-###
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KoalaKeno}/count.svg" /></p> 
 <br></div>
 
 ###
