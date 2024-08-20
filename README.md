@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Meu nome é Keno William mais conhecido como Koala ou Stockler entre outras pessoas, sou um apaixonante de TI estudo atualmente Tecnologia da Informação no Senac - Americana, estou sempre em busca de novos conhecimentos e aprendizagem. Tenho uma paixão enorme por Tecnologia, Hakcing, Jogos, Programação, Banco de dados e entre muito mais.<br>Caso queira saber mais entre no meu Portfolio.</p>
+<p align="left">Meu nome é Keno mais conhecido como Koala entre outras pessoas, sou um apaixonante de TI estudo atualmente Tecnologia da Informação no Senac - Americana, estou sempre em busca de novos conhecimentos e aprendizagem. Tenho uma paixão enorme por Tecnologia, Hakcing, Jogos, Programação, Banco de dados e entre muito mais.<br>Caso queira saber mais entre no meu Portfolio.</p>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h2 align="center">Ferramentas de mais uso:</h2>
+<h2 align="center">Linguagens de Programação</h2>
 
 ###
 
@@ -46,10 +46,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<h2 align="center">Ferramentas e Frameworks</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
@@ -68,6 +76,11 @@
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KoalaKeno.KoalaKeno&left_color=gray&right_color=lightgray&left_text=Profile%20Views"  />
+</div>
+
+###
+
+<div align="left">
 </div>
 
 ###
