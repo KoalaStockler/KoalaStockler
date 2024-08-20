@@ -36,8 +36,8 @@
 
 ###
 
-<h2 align="center">Linguagens de Programação</h2>
-
+<h3 align="center">Linguagens de Programação</h3>
+---
 ###
 
 <div align="left">
