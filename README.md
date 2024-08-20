@@ -1,10 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<h1 align="center">👑 I Work In Silence 👑</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=👑%20I%20Work%20In%20Silence%20👑&fontSize=40&fontColor=ffffff&descAlign=50&descAlignY=50&fontWeight=bold"/>
 
 ###
 
 <div align="center">
-  <img height="50" src="https://user-images.githubusercontent.com/74038190/213005755-4d622685-6677-40cb-81ad-f10b4cc6f177.png"  />
+  <img height="100" src="https://user-images.githubusercontent.com/74038190/213005755-4d622685-6677-40cb-81ad-f10b4cc6f177.png"  />
 </div>
 
 ###
