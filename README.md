@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Meu nome é Keno mais conhecido como Koala entre outras pessoas, sou um apaixonante de TI estudo atualmente Tecnologia da Informação no Senac - Americana, estou sempre em busca de novos conhecimentos e aprendizagem. Tenho uma paixão enorme por Tecnologia, Hakcing, Jogos, Programação, Banco de dados e entre muito mais.<br>Caso queira saber mais entre no meu Portfolio.</p>
+<p align="left">Meu nome é Keno mais conhecido como Koala e Stockler entre outras pessoas, sou um apaixonante de TI estudo atualmente Tecnologia da Informação no [Senac - Americana](https://www.sp.senac.br/senac-americana), estou sempre em busca de novos conhecimentos e aprendizagem. Tenho uma paixão enorme por Tecnologia, Hakcing, Jogos, Programação, Banco de dados, Linux, Hardwares, Softwares e entre muito mais que estejam envolvidos com tecnologia.<br>Caso queira saber mais entre no meu Portfolio.</p>
 
 ###
 
