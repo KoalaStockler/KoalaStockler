@@ -22,6 +22,14 @@
 
 ###
 
+<details>
+  <summary>👨‍💻Um pouco sobre mim👨‍💻</summary>
+  - Tenho 18 anos, meu nome é Keno William, e estou sempre em busca de conhecimento.
+  - Sempre fui apaixonado por tecnologia e quero isso para a minha vida.
+</details>
+
+###
+
 <h2 align="center">Status</h2>
 
 ###
