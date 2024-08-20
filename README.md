@@ -1,4 +1,4 @@
-<p align="center">👑 I Work In Silence 👑</p>
+<h1 align="center">👑 I Work In Silence 👑</h1>
 
 ###
 
