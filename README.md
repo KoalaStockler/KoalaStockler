@@ -91,9 +91,10 @@
 
 ###
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KoalaKeno.KoalaKeno&left_color=gray&right_color=lightgray&left_text=Profile%20Views"  />
-</div>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<br></div>
 
 ###
 
