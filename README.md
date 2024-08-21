@@ -49,8 +49,8 @@
   <img src="https://streak-stats.demolab.com?user=KoalaKeno&locale=pt-br&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KoalaKeno&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=KoalaKeno&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app?username=KoalaKeno&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 </div>
 
 ###
