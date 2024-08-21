@@ -109,3 +109,6 @@
 
 ###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=KoalaStockler&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
