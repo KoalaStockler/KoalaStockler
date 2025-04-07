@@ -41,9 +41,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KoalaStockler&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=pt-br&hide_border=false&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KoalaStockler&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false&order=2" height="140" alt="languages graph"  />
   <p align="center">
+  <div align="center">
+  <img src="https://streak-stats.demolab.com?user=KoalaStockler&locale=pt-br&mode=weekly&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KoalaStockler&radius=16&theme=high-contrast&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=KoalaStockler&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
 </div>
 
 ###
