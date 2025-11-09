@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=👑%20I%20Work%20In%20Silence%20👑&fontSize=40&fontColor=ffffff&descAlign=50&descAlignY=50&fontWeight=bold"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!+EU+SOU+KENO+WILLIAM;TENHO+18+ANOS;SOU+DE+SÃO+PAULO,+BRASIL;ESTUDO+TECNOLOGIA+DA+INFORMAÇÃO+NO+SENAC;SEJA+BEM-VINDO(A)+AO+MEU+PERFIL!+😄)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!+EU+SOU+KENO+WILLIAM;TENHO+19+ANOS;SOU+DE+SÃO+PAULO,+BRASIL;ESTUDO+TECNOLOGIA+DA+INFORMAÇÃO+NO+SENAC;SEJA+BEM-VINDO(A)+AO+MEU+PERFIL!+😄)](https://git.io/typing-svg)
 
 ###
 
@@ -35,7 +35,7 @@
 <details>
   <summary>👨‍💻 Um pouco mais sobre mim</summary>
 
-  - 💡 Tenho 18 anos e sou natural do Brasil 🇧🇷  
+  - 💡 Tenho 19 anos e sou natural do Brasil 🇧🇷  
   - 💻 Apaixonado por tecnologia desde criança  
   - 🚀 Sempre curioso e em busca de novos conhecimentos  
   - 🎯 Meu objetivo é evoluir todos os dias, aprendendo e criando  
