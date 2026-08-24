@@ -21,7 +21,7 @@
 ###
 
 <p align="left">
-  Meu nome é <b>Keno William</b>, mas muitos me conhecem como <b><i>Koala</i></b> ou <b><i>Stockler</i></b>.  
+  Meu nome é <b>Keno William</b>, mas muitos me conhecem como <b><i>Buga</i></b> ou <b><i>Stockler</i></b>.  
   Sou apaixonado por <b>Tecnologia da Informação</b> e atualmente estudo no 
   <a href="https://www.sp.senac.br/senac-americana">Senac - Americana</a>.  
   Gosto de explorar o mundo da tecnologia em todas as suas formas — desde <b>programação</b> e <b>banco de dados</b> até <b>hacking ético</b>, <b>Linux</b>, <b>hardware</b> e <b>software</b>.  
