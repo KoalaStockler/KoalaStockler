@@ -26,8 +26,7 @@
   <a href="https://www.sp.senac.br/senac-americana">Senac - Americana</a>.  
   Gosto de explorar o mundo da tecnologia em todas as suas formas — desde <b>programação</b> e <b>banco de dados</b> até <b>hacking ético</b>, <b>Linux</b>, <b>hardware</b> e <b>software</b>.  
   <br><br>
-  Estou sempre em busca de novos aprendizados, desafios e oportunidades para crescer como profissional e como pessoa.  
-  Se quiser saber mais sobre mim, visite meu <a href="https://koalastockler.github.io/">Portfólio</a> — espero que goste! 🚀
+  Estou sempre em busca de novos aprendizados, desafios e oportunidades para crescer como profissional e como pessoa.
 </p>
 
 ###
